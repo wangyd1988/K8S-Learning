@@ -1,0 +1,1 @@
+ssh root@100.2.20.2 'tcpdump -i mlx5_0 -l -w -'|"C:\Program Files\WrireShark.exe" -k -i -
