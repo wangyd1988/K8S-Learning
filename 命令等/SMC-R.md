@@ -5,4 +5,4 @@
 -[x] https://www.alibabacloud.com/help/zh/alinux/user-guide/use-smc
 
 - SMC使用说明
--[x] [****](https://www.alibabacloud.com/help/tc/ecs/user-guide/smc-instructions)
+ https://www.alibabacloud.com/help/tc/ecs/user-guide/smc-instructions
